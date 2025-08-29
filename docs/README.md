@@ -1,12 +1,10 @@
 ---
-title: SOL:Self-organizing logic
+title: Bidirectional Logic
 layout: default
 ---
+# Bidirectional Logic
 
+Documents of Bidirectional Logic
+[Japanese paper PDF](https://KeisukeShindo0.github.io/BidirectionalLogic/BidirectionalLogic.pdf)
 
-Documents of Self-organizing logic
-
-[English paper PDF](https://KeisukeShindo0.github.io/SOL/SOL-EN.pdf)
-[Japanese paper PDF](https://KeisukeShindo0.github.io/SOL/SOL.pdf)
-
-- SOL-EN.pdf　SHA256 Hash: 4D0AB273FC6EFD3D4873D09DB960DB8A7FDF0D291262356C0BDD9749A62CBD79
+- SOL.pdf SHA256 Hash: 8EF0C9209F7CEA4872682F66DFCA0DB6F4949F75D3D652ED7191CF22E7C8E67E
